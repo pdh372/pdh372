@@ -80,7 +80,8 @@ Working on a container logistics platform: **35+ microservices, 35+ teams**. I o
 
 ## Languages
 
-Vietnamese (native) · English (working proficiency)
+- Vietnamese — native
+- English — working proficiency
 
 ---
 
