@@ -75,8 +75,8 @@ Working on a container logistics platform: **35+ microservices, 35+ teams**. I o
 
 ## Recognition
 
-🥈 2nd place — Cyberlogitec Hackathon Season 3 (2024)
-🥉 3rd place — Chorus Virtual Company Hackathon Season 1 (2026)
+- 🥈 2nd place — Cyberlogitec Hackathon Season 3 (2024)
+- 🥉 3rd place — Chorus Virtual Company Hackathon Season 1 (2026)
 
 ## Languages
 
