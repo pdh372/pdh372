@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d14,100:14b8a6&height=190&section=header&text=Pham%20Duc%20Huy&fontColor=e6e9f0&fontSize=46&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Node.js%20%C2%B7%20Microservices%20%26%20Event-Driven%20Systems&descColor=99f6e4&descAlignY=60&descSize=16" alt="Pham Duc Huy — Backend Engineer" />
+<img src="assets/banner.svg" alt="Pham Duc Huy — Backend Engineer" width="100%" />
 
-[![CV](https://img.shields.io/badge/CV-pdh372.github.io%2Fmy--cv-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pdh372.github.io/my-cv/)
-[![PDF](https://img.shields.io/badge/Download-CV.pdf-0b0d14?style=for-the-badge&logo=adobeacrobatreader&logoColor=14b8a6)](https://pdh372.github.io/my-cv/cv.pdf)
-[![Email](https://img.shields.io/badge/pdh372%40gmail.com-0b0d14?style=for-the-badge&logo=gmail&logoColor=14b8a6)](mailto:pdh372@gmail.com)
-![Status](https://img.shields.io/badge/Open%20to-Senior%20roles-14b8a6?style=for-the-badge)
+[![CV](https://img.shields.io/badge/CV-Website-14b8a6?style=flat-square&logo=googlechrome&logoColor=white)](https://pdh372.github.io/my-cv/)
+[![PDF](https://img.shields.io/badge/CV-PDF-0b0d14?style=flat-square&logo=adobeacrobatreader&logoColor=14b8a6)](https://pdh372.github.io/my-cv/cv.pdf)
+[![Email](https://img.shields.io/badge/Email-pdh372%40gmail.com-0b0d14?style=flat-square&logo=gmail&logoColor=14b8a6)](mailto:pdh372@gmail.com)
+![Status](https://img.shields.io/badge/Open%20to-Senior%20roles-14b8a6?style=flat-square)
 
 </div>
 
@@ -30,7 +30,21 @@ Working on a container logistics platform: **35+ microservices, 35+ teams**. I o
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,graphql,kafka,postgres,redis,mongodb,docker,kubernetes,gcp,githubactions,nextjs,react&perline=8" alt="Tech stack icons" />
+<img src="https://img.shields.io/badge/Node.js-0b0d14?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-0b0d14?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/NestJS-0b0d14?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+<img src="https://img.shields.io/badge/GraphQL-0b0d14?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" />
+<img src="https://img.shields.io/badge/gRPC-0b0d14?style=flat-square&logo=grpc&logoColor=14b8a6" alt="gRPC" />
+<img src="https://img.shields.io/badge/Kafka-0b0d14?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/badge/PostgreSQL-0b0d14?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-0b0d14?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+<img src="https://img.shields.io/badge/MongoDB-0b0d14?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Docker-0b0d14?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-0b0d14?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/GCP-0b0d14?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="GCP" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0b0d14?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Next.js-0b0d14?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-0b0d14?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 
 </div>
 
@@ -74,6 +88,5 @@ Vietnamese (native) · English (working proficiency)
 
 **Hiring for a Senior backend role?** → [pdh372@gmail.com](mailto:pdh372@gmail.com) · [Full CV](https://pdh372.github.io/my-cv/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d14,100:14b8a6&height=90&section=footer" alt="" />
 
 </div>
