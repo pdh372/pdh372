@@ -16,13 +16,8 @@
   <rect width="1200" height="220" rx="14" fill="url(#bg)"/>
   <rect width="1200" height="220" rx="14" fill="url(#grid)"/>
   <rect x="64" y="52" width="48" height="4" rx="2" fill="#14b8a6"/>
-  <text x="64" y="118" fill="#e6e9f0" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="1">Pham Duc Huy</text>
-  <text x="64" y="156" fill="#5eead4" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="22">Backend Engineer · Node.js</text>
-  <text x="64" y="186" fill="#94a3b8" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="18">Microservices &amp; Event-Driven Systems</text>
-  <rect x="64" y="200" width="420" height="2" fill="url(#line)"/>
-  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" fill="#14b8a6" fill-opacity="0.9">
-    <text x="860" y="96">gRPC → GraphQL BFF → Next.js</text>
-    <text x="860" y="124">Kafka · Outbox · Debezium</text>
-    <text x="860" y="152">XState · BullMQ · Postgres</text>
-  </g>
+  <text x="64" y="114" fill="#e6e9f0" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="1">Pham Duc Huy</text>
+  <text x="64" y="160" fill="#5eead4" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="28">Backend Engineer · Node.js</text>
+  <text x="64" y="192" fill="#94a3b8" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="22">Microservices &amp; Event-Driven Systems</text>
+  <rect x="64" y="204" width="520" height="2" fill="url(#line)"/>
 </svg>
