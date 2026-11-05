@@ -13,7 +13,7 @@
 
 ## About
 
-Backend engineer with **5+ years** building distributed systems in logistics and gamification.
+Backend engineer with **~5 years** building distributed systems in logistics and gamification.
 I care about **event-driven design, reliable messaging and high availability**: Kafka, transactional outbox, state-machine validation, and queue performance tuning.
 I also lead production rollouts and mentor junior developers.
 
@@ -21,8 +21,8 @@ I also lead production rollouts and mentor junior developers.
 
 ## Now
 
-Mid-Level Backend Developer at **Cyberlogitec**, seconded to **Chorus Virtual Company** (a joint venture of MTI, CLT and OTSV).
-Working on a container logistics platform: **35+ microservices, 35+ teams**. I own its event processing end to end: gRPC backend → GraphQL BFF → Next.js UI.
+Backend Developer at **Cyberlogitec**, seconded to **Chorus Virtual Company** (a joint venture of MTI, CLT and OTSV).
+I **own the event-processing domain** of a container logistics platform (**35+ microservices, 35+ teams**), end to end: gRPC backend → GraphQL BFF → Next.js UI.
 
 👉 **[See the architecture, interactive](https://pdh372.github.io/my-cv/architecture/)** — a generic, public-safe walkthrough of the event pipeline.
 
@@ -37,14 +37,8 @@ Working on a container logistics platform: **35+ microservices, 35+ teams**. I o
 <img src="https://img.shields.io/badge/gRPC-0b0d14?style=flat-square&logo=grpc&logoColor=14b8a6" alt="gRPC" />
 <img src="https://img.shields.io/badge/Kafka-0b0d14?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
 <img src="https://img.shields.io/badge/PostgreSQL-0b0d14?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-0b0d14?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
-<img src="https://img.shields.io/badge/MongoDB-0b0d14?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Docker-0b0d14?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-0b0d14?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/GCP-0b0d14?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="GCP" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0b0d14?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Next.js-0b0d14?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-0b0d14?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 
 </div>
 
@@ -67,11 +61,11 @@ Working on a container logistics platform: **35+ microservices, 35+ teams**. I o
 
 ## Experience
 
-| Period | Role | Company |
-| --- | --- | --- |
-| 12/2023 – now | Mid-Level Backend Developer | **Cyberlogitec** (seconded to Chorus Virtual Company) |
-| 03/2022 – 11/2023 | Junior Backend Developer | **Sqkii**: gamified marketing, 30,000+ active users, 1M+ records |
-| 09/2021 – 02/2022 | Intern Frontend Developer | **HMSP**: internal admin dashboard (Next.js, React Query) |
+| Period | Role | Company | Highlights |
+| --- | --- | --- | --- |
+| 12/2023 – now | Mid-Level Backend Developer | **Cyberlogitec** | Seconded to Chorus Virtual Company · container logistics, 35+ microservices |
+| 03/2022 – 11/2023 | Junior Backend Developer | **Sqkii** | Gamified marketing · 30,000+ active users, 1M+ records |
+| 09/2021 – 02/2022 | Intern Frontend Developer | **HMSP** | Internal admin dashboard (Next.js, React Query) |
 
 ## Recognition
 
@@ -88,6 +82,5 @@ Working on a container logistics platform: **35+ microservices, 35+ teams**. I o
 <div align="center">
 
 **Hiring for a Senior backend role?** → [pdh372@gmail.com](mailto:pdh372@gmail.com) · [Full CV](https://pdh372.github.io/my-cv/)
-
 
 </div>
